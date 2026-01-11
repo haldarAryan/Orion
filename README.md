@@ -36,8 +36,4 @@
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=haldararyan&show_icons=true&locale=en&layout=compact" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=haldararyan&" />
-</p>
+
